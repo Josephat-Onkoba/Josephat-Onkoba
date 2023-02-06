@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Josephat-Onkoba
 - 👀 I’m interested and passionate about the evolving world on technology.
-- 🌱 I’m currently learning Cybersecurity and Ethical hacking techniques.
+- 🌱 I’m currently learning Web development, python, sql, and data science techniques.
 - 💞️ I’m looking to collaborate on issues dealing with web development, software engineering, cybersecurity and ethical hacking.
 - 📫 How to reach me ...
 - facebook @ JOSEPHAT ONKOBA
