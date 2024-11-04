@@ -4,10 +4,23 @@
 I'm a technology enthusiast, deeply passionate about the innovations and opportunities in the tech world. My focus lies in **Web Development, Software Engineering, Data Science, and AI/ML**, where I strive to build impactful solutions.
 
 🌱 **Profession:**  
-- Web Development (Pyhthon(Django), PHP(Laravel), MYSQL, tailwind and Boostrap css, Node.js)
+- Web Development 
 - Python for Data Science
 - SQL and Data Analytics
 - Machine Learning and AI fundamentals
+
+  💻 Programming Languages
+
+- Python
+- PHP
+- SQL
+- JavaScript
+
+🛠️ Frameworks & Libraries
+
+- Backend: Django (Python), Laravel (PHP), Node.js
+- Frontend: Tailwind CSS, Bootstrap CSS
+- Data Science & Machine Learning: Pandas, NumPy, scikit-learn
 
 🤝 **Looking to Collaborate On:**  
 I'm eager to collaborate on projects in:
