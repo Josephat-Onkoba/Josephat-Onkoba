@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Josephat-Onkoba
-- 👀 I’m interested and passionate about the evolving world on technology.
-- 🌱 I’m currently learning Web development, python, sql, and data science techniques.
-- 💞️ I’m looking to collaborate on issues dealing with web development, software engineering, AI and ML projects, Data science and Analytics, and also contribute to creating awareness about cybersecurity and staying safe online
-- 📫 How to reach me ...
-- facebook @ JOSEPHAT ONKOBA
-- LINKEDIN @ JOSEPHAT ONKOBA
+### 👋 Hi there! I’m **Josephat Onkoba**
 
-<!---
-Josephat-Onkoba/Josephat-Onkoba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **About Me:**  
+I'm a technology enthusiast, deeply passionate about the innovations and opportunities in the tech world. My focus lies in **Web Development, Software Engineering, Data Science, and AI/ML**, where I strive to build impactful solutions.
+
+🌱 **Profession:**  
+- Web Development (Pyhthon(Django), PHP(Laravel), MYSQL, tailwind and Boostrap css, React, Node.js)
+- Python for Data Science
+- SQL and Data Analytics
+- Machine Learning and AI fundamentals
+
+🤝 **Looking to Collaborate On:**  
+I'm eager to collaborate on projects in:
+- **Web Development**: Frontend and backend projects
+- **Software Engineering**: Building scalable and efficient solutions
+- **AI/ML and Data Science**: Innovative projects with real-world impact
+- **Cybersecurity Awareness**: Promoting safe practices and online security
+
+📫 **Let's Connect:**  
+- **LinkedIn:** [Josephat Onkoba](https://www.linkedin.com/in/josephat-onkoba-984b6a226/)
+- **Bold portfolio:** [Josephat Onkoba](https://bold.pro/my/josephatonkoba-serembe-241021233704)
+- **X:** [Josephat Onkoba](https://x.com/JosephatOnkoba_)
+
