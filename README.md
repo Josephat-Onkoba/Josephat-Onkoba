@@ -9,14 +9,14 @@ I'm a technology enthusiast, deeply passionate about the innovations and opportu
 - SQL and Data Analytics
 - Machine Learning and AI fundamentals
 
-  💻 Programming Languages
+💻 **Programming Languages**
 
 - Python
 - PHP
 - SQL
 - JavaScript
 
-🛠️ Frameworks & Libraries
+🛠️ **Frameworks & Libraries**
 
 - Backend: Django (Python), Laravel (PHP), Node.js
 - Frontend: Tailwind CSS, Bootstrap CSS
