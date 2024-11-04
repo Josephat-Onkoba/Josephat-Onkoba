@@ -4,7 +4,7 @@
 I'm a technology enthusiast, deeply passionate about the innovations and opportunities in the tech world. My focus lies in **Web Development, Software Engineering, Data Science, and AI/ML**, where I strive to build impactful solutions.
 
 🌱 **Profession:**  
-- Web Development (Pyhthon(Django), PHP(Laravel), MYSQL, tailwind and Boostrap css, React, Node.js)
+- Web Development (Pyhthon(Django), PHP(Laravel), MYSQL, tailwind and Boostrap css, Node.js)
 - Python for Data Science
 - SQL and Data Analytics
 - Machine Learning and AI fundamentals
