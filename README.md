@@ -65,6 +65,11 @@
 </p>
 
 ---
+<h4 align="center">🚀 Companies I Aspire to Work With</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
+  <img src="https://img.shields.io/badge/Canonical-E95420?style=for-the-badge&logo=canonical&logoColor=white" alt="Canonical" />
+</p>
 
 <h4 align="center">📈 Stats</h4>
 <div align="center">
@@ -76,12 +81,6 @@
 
 <div align="center">
   <p>🤝 <strong>Let's Collaborate:</strong></p>
-  <ul>
-    <li>💻 Software Architecture: Building scalable and reliable systems</li>
-    <li>🤖 AI/ML: Implementing machine learning and deep learning solutions</li>
-    <li>☁️ Cloud Deployment: Using Google Cloud, Oracle Cloud, Amazon Cloud & Huawei Cloud for reliable deployments</li>
-    <li>🔧 Containerization: Managing applications with Docker & Kubernetes</li>
-  </ul>
 </div>
 
 <div align="center">
