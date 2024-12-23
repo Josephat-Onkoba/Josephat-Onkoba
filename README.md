@@ -32,8 +32,8 @@
 ---
 
 <h4>📈 Stats</h4>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephatonkoba&layout=compact&langs_count=8&theme=algolia" alt="josephatonkoba" />
-<img src="https://github-readme-stats.vercel.app/api?username=josephatonkoba&show_icons=true&theme=algolia" alt="josephatonkoba" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephat-onkoba&layout=compact&langs_count=8&theme=algolia" alt="josephat-onkoba" />
+<img src="https://github-readme-stats.vercel.app/api?username=josephat-onkoba&show_icons=true&theme=algolia" alt="josephat-onkoba" />
 </div>
 
 ---
