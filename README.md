@@ -80,11 +80,7 @@
 ---
 
 <div align="center">
-  <p>🤝 <strong>Let's Collaborate:</strong></p>
-</div>
-
-<div align="center">
-  <p>📫 <strong>Connect with me:</strong></p>
+  <p>📫 <strong>Connect with me and Let's Collaborate:</strong></p>
   <a href="https://www.linkedin.com/in/josephat-onkoba-984b6a226/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Josephat%20Onkoba-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
   <a href="https://bold.pro/my/josephatonkoba-serembe-241021233704" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-Bold-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"></a>  
   <a href="https://x.com/JosephatOnkoba_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-@JosephatOnkoba_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
