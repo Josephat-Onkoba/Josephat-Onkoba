@@ -65,7 +65,7 @@
 </p>
 
 ---
-<h4 align="center">🚀 Companies I Aspire to Work With</h4>
+<h4 align="center">🚀 Companies </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
   <img src="https://img.shields.io/badge/Canonical-E95420?style=for-the-badge&logo=canonical&logoColor=white" alt="Canonical" />
