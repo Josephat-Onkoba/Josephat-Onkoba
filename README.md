@@ -29,6 +29,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/Amazon%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Cloud" />
+  <img src="https://img.shields.io/badge/Huawei%20Cloud-0E5E55?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei Cloud" />
 </p>
 
 <h4 align="center">🛠 Frameworks & Libraries</h4>
@@ -36,6 +38,18 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Theano-6D6A7A?style=for-the-badge&logo=theano&logoColor=white" alt="Theano" />
+  <img src="https://img.shields.io/badge/XGBoost-3E6D9D?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-9B59B6?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap CSS" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
 <h4 align="center">🔧 Containerization</h4>
@@ -65,7 +79,7 @@
   <ul>
     <li>💻 Software Architecture: Building scalable and reliable systems</li>
     <li>🤖 AI/ML: Implementing machine learning and deep learning solutions</li>
-    <li>☁️ Cloud Deployment: Using Google Cloud & Oracle Cloud for reliable deployments</li>
+    <li>☁️ Cloud Deployment: Using Google Cloud, Oracle Cloud, Amazon Cloud & Huawei Cloud for reliable deployments</li>
     <li>🔧 Containerization: Managing applications with Docker & Kubernetes</li>
   </ul>
 </div>
