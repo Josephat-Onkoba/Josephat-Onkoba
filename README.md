@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated SVG background flair -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Josephat+Onkoba;Software+Engineer+%7C+Solution+Architect;AI%2FML+Enthusiast+%7C+Cloud+Native+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Josephat+Onkoba;Software+Engineer+%7C+Solution+Architect;" alt="Typing SVG" />
 
 <p><strong>Building scalable, real-world solutions with code, cloud, and creativity 🚀</strong></p>
 
