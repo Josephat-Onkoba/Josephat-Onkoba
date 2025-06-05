@@ -35,7 +35,7 @@ I am a passionate software engineer with a Bachelor's in Information Technology 
 
 <div align="center">
 
-### 📫 Connect with me
+### Connect with me
 
 <a href="https://www.linkedin.com/in/josephat-onkoba-984b6a226/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Josephat%20Onkoba-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
