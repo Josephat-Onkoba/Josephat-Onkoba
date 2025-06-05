@@ -1,13 +1,14 @@
 <div align="center">
 
-<h3> Hi, I’m <a href="https://bold.pro/my/josephatonkoba-serembe-241021233704" target="_blank" rel="noreferrer">Josephat Onkoba</a></h3>
+<!-- Animated SVG background flair -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Josephat+Onkoba;Software+Engineer+%7C+Solution+Architect;AI%2FML+Enthusiast+%7C+Cloud+Native" alt="Typing SVG" />
 
-<p>Software Engineer | Solution Architect | AI/ML Enthusiast | Building scalable, real-world solutions</p>
+<p><strong>Building scalable, real-world solutions with code, cloud, and creativity 🚀</strong></p>
 
-<br>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=josephat-onkoba&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/twitter/follow/JosephatOnkoba_?color=0e75b6&label=%20%20Follow%20%20&logo=twitter&logoColor=white&style=flat-square" alt="Twitter Follow" />
+<img src="https://img.shields.io/twitter/follow/JosephatOnkoba_?color=0e75b6&label=Follow&logo=twitter&logoColor=white&style=flat-square" alt="Twitter Follow" />
 
 </div>
 
@@ -15,17 +16,20 @@
 
 <div align="center">
 
-<p>I am a passionate software engineer with a Bachelor's in Information Technology and experience in both front-end and back-end development. Proficient in Python and PHP, with strong knowledge of database systems and google cloud platform. I am also keenly interested in research within software engineering, applying AI and Machine Learning to develop meaningful, human-centered solutions.</p> 
+<p>
+I am a passionate software engineer with a Bachelor's in Information Technology and experience across both front-end and back-end technologies. Proficient in Python and PHP, with a strong command of databases and Google Cloud Platform. <br/> <br/>
+My current focus is on leveraging AI/ML to build human-centered, intelligent systems while exploring cutting-edge research in software engineering.
+</p>
 
 </div>
 
 ---
 
 ### 📊 Stats
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephat-onkoba&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=josephat-onkoba&show_icons=true&theme=algolia" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephat-onkoba&theme=algolia&hide_border=false" alt="Current Streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephat-onkoba&theme=algolia&hide_border=false" alt="GitHub Streaks" />
 </div>
 
 ---
@@ -33,6 +37,7 @@
 <div align="center">
 
 ### 📫 Connect with me
+
 <a href="https://www.linkedin.com/in/josephat-onkoba-984b6a226/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Josephat%20Onkoba-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
