@@ -24,11 +24,11 @@ I am a passionate software engineer with a Bachelor's in Information Technology 
 
 ---
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephat-onkoba&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=josephat-onkoba&show_icons=true&theme=algolia" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephat-onkoba&theme=algolia&hide_border=false" alt="GitHub Streaks" />
-</div>
+</p>
 
 ---
 
