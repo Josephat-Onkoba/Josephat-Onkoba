@@ -34,6 +34,10 @@ My current focus is on leveraging AI/ML to build human-centered, intelligent sys
 
 ---
 
+<!-- WakaTime stats -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=algolia" alt="WakaTime Stats"/>
+
+
 <div align="center">
 
 ### 📫 Connect with me
