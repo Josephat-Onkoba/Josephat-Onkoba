@@ -17,9 +17,7 @@
 
 <div align="center">
 
-<p>🌐 I specialize in reliable, scalable systems and leverage AI/ML to create innovative, cloud-based solutions with containerization at the core.</p>
-
-<p>🤝 Let's build the future together!</p>
+<p>I am a passionate software engineer with a Bachelor's in Information Technology and experience in both front-end and back-end development. Proficient in Python and PHP, with strong knowledge of database systems and google cloud platform. I am also keenly interested in research within software engineering, applying AI and Machine Learning to develop meaningful, human-centered solutions.</p> 
 
 </div>
 
