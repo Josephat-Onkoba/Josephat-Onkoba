@@ -1,8 +1,8 @@
 <div align="center">
 
-<h3>👋 Hi, I’m <a href="https://bold.pro/my/josephatonkoba-serembe-241021233704" target="_blank" rel="noreferrer">Josephat Onkoba</a></h3>
+<h3> Hi, I’m <a href="https://bold.pro/my/josephatonkoba-serembe-241021233704" target="_blank" rel="noreferrer">Josephat Onkoba</a></h3>
 
-<p>💻 Software Engineer | 🖥️ Solution Architect | 🤖 AI/ML Enthusiast | 🚀 Building scalable, real-world solutions</p>
+<p>Software Engineer | Solution Architect | AI/ML Enthusiast | Building scalable, real-world solutions</p>
 
 <br>
 
