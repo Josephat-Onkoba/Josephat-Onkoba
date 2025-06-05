@@ -25,10 +25,11 @@ I am a passionate software engineer with a Bachelor's in Information Technology 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephat-onkoba&show_icons=true&theme=algolia" alt="GitHub Stats" width="330px" height="250px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephat-onkoba&theme=algolia&hide_border=false" alt="GitHub Streaks" width="330px" height="260px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephat-onkoba&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" width="300px" height="250px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephat-onkoba&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=josephat-onkoba&show_icons=true&theme=algolia" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephat-onkoba&theme=algolia&hide_border=false" alt="GitHub Streaks"/>
 </div>
+
 
 
 
