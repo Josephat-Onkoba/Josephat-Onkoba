@@ -17,7 +17,7 @@
 <div align="center">
 
 <p>
-I am a passionate software engineer with a Bachelor's in Information Technology and experience across both front-end and back-end technologies. Proficient in Python and PHP, with a strong command of databases and Google Cloud Platform. My current focus is on leveraging AI/ML to build human-centered, intelligent systems while exploring cutting-edge research in software engineering.
+I am a passionate software engineer with a Bachelor's in Information Technology and experience across both front-end and back-end technologies. Proficient in Python for AI & ML and PHP for web dev, with a strong command of databases, Google & Microsoft Azure Cloud Platforms. My current focus is on leveraging AI/ML to build human-centered, intelligent systems while exploring cutting-edge research in software engineering.
 </p>
 
 </div>
