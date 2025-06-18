@@ -31,9 +31,6 @@ I am a passionate software engineer with a Bachelor's in Information Technology 
 </div>
 
 
-
-
-
 ---
 
 <div align="center">
