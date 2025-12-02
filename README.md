@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Josephat+Onkoba;Software+Engineer+%7C+Solution+Architect;AI%2FML+Engineer+%7C+Cloud+Developer;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Josephat+Onkoba;Software+Engineer+%7C+Solution+Architect;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
 
 <p align="center">
   <strong> Building scalable, real-world solutions with code, cloud, and creativity</strong>
