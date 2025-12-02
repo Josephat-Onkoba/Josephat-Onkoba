@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Josephat+Onkoba;Software+Engineer+%7C+Solution+Architect;AI%2FML+Enthusiast+%7C+Cloud+Developer;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
 
 <p align="center">
-  <strong>🚀 Building scalable, real-world solutions with code, cloud, and creativity</strong>
+  <strong> Building scalable, real-world solutions with code, cloud, and creativity</strong>
 </p>
 
 <!-- Badges -->
@@ -31,7 +31,7 @@ I specialize in leveraging cutting-edge AI technologies to build practical, high
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -71,13 +71,6 @@ I specialize in leveraging cutting-edge AI technologies to build practical, high
 ## GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/josephat-onkoba">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=josephat-onkoba&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff" alt="GitHub Stats"/>
-  </a>
-</div>
-
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephat-onkoba&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
 </div>
 
@@ -95,7 +88,7 @@ I specialize in leveraging cutting-edge AI technologies to build practical, high
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
