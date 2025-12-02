@@ -19,17 +19,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a passionate **Software Engineer** with a Bachelor's in Information Technology, specializing in building intelligent, human-centered systems. My expertise spans:
+I'm a **Software Engineer and Solution Architect** specializing in AI/ML systems and cloud-native applications. My expertise encompasses:
 
-- 🤖 **AI & Machine Learning** using Python
-- 🌐 **Full-Stack Development** with modern frameworks
-- ☁️ **Cloud Architecture** on Google Cloud & Microsoft Azure
-- 🗄️ **Database Design** and optimization
-- 🔬 **Research** in cutting-edge software engineering practices
+- **AI & Machine Learning Engineering** - Developing and deploying production-grade ML models, implementing MLOps pipelines, and building intelligent systems using TensorFlow, PyTorch, and Scikit-learn
+- **Cloud Architecture & DevOps** - Designing scalable infrastructure on Google Cloud Platform and Microsoft Azure, with expertise in containerization (Docker/Kubernetes) and CI/CD automation
+- **Full-Stack Development** - Building robust web applications with modern frameworks, REST/GraphQL APIs, and microservices architecture
+- **Data Engineering** - Designing data pipelines, optimizing database performance, and implementing ETL workflows for large-scale data processing
+- **Solution Design** - Architecting enterprise-level systems with focus on scalability, reliability, and security best practices
 
-I thrive on solving complex problems and turning innovative ideas into production-ready solutions that make a real impact.
+I specialize in bridging the gap between research and production, transforming complex AI/ML concepts into deployable, business-value-driven solutions.
 
 ---
 
