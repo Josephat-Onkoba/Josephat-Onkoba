@@ -23,13 +23,11 @@
 
 I'm a **Software Engineer and Solution Architect** specializing in AI/ML systems and cloud-native applications. My expertise encompasses:
 
-- **AI & Machine Learning Engineering** - Developing and deploying production-grade ML models, implementing MLOps pipelines, and building intelligent systems using TensorFlow, PyTorch, and Scikit-learn
-- **Cloud Architecture & DevOps** - Designing scalable infrastructure on Google Cloud Platform and Microsoft Azure, with expertise in containerization (Docker/Kubernetes) and CI/CD automation
-- **Full-Stack Development** - Building robust web applications with modern frameworks, REST/GraphQL APIs, and microservices architecture
-- **Data Engineering** - Designing data pipelines, optimizing database performance, and implementing ETL workflows for large-scale data processing
-- **Solution Design** - Architecting enterprise-level systems with focus on scalability, reliability, and security best practices
+- **AI & Machine Learning** - Building intelligent automation systems, AI agents, and machine learning models for production environments
+- **Software Engineering** - Developing full-stack applications with expertise in both frontend and backend technologies
+- **Solutions Architecture** - Designing scalable, cloud-based systems that solve complex business challenges
 
-I specialize in bridging the gap between research and production, transforming complex AI/ML concepts into deployable, business-value-driven solutions.
+I specialize in leveraging cutting-edge AI technologies to build practical, high-impact solutions.
 
 ---
 
@@ -42,11 +40,16 @@ I specialize in bridging the gap between research and production, transforming c
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### AI/ML & Data Science
+### AI/ML & LLM Platforms
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub Models](https://img.shields.io/badge/GitHub_Models-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Cloud & DevOps
@@ -68,9 +71,19 @@ I specialize in bridging the gap between research and production, transforming c
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephat-onkoba&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephat-onkoba&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=josephat-onkoba&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephat-onkoba&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff&card_width=320" alt="Top Languages" height="180px"/>
 </div>
+
+<!-- Alternative if above doesn't load -->
+<!-- 
+<div align="center">
+  <a href="https://github.com/josephat-onkoba">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=josephat-onkoba&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff" alt="GitHub Stats"/>
+  </a>
+</div>
+-->
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephat-onkoba&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
