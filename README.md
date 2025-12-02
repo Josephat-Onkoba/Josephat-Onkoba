@@ -103,7 +103,7 @@ I specialize in leveraging cutting-edge AI technologies to build practical, high
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
 
