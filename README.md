@@ -68,21 +68,13 @@ I specialize in leveraging cutting-edge AI technologies to build practical, high
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephat-onkoba&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephat-onkoba&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=ffffff&card_width=320" alt="Top Languages" height="180px"/>
-</div>
-
-<!-- Alternative if above doesn't load -->
-<!-- 
 <div align="center">
   <a href="https://github.com/josephat-onkoba">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=josephat-onkoba&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff" alt="GitHub Stats"/>
   </a>
 </div>
--->
 
 
 <div align="center">
