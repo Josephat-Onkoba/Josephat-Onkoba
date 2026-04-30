@@ -4,13 +4,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Josephat+Onkoba;Software+Engineer+%7C+Solution+Architect;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
 
 <p align="center">
-  <strong>Building scalable, real-world solutions with code, cloud, and creativity</strong>
+  <strong> Building scalable, real-world solutions with code, cloud, and creativity</strong>
 </p>
 
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=josephat-onkoba&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views" />
-  <a href="https://x.com/JosephatOnkoba_"><img src="https://img.shields.io/badge/X-Follow%20@JosephatOnkoba__-000000?style=flat-square&logo=x&logoColor=white" alt="X Follow" /></a>
+  <img src="https://img.shields.io/twitter/follow/JosephatOnkoba_?color=00d9ff&label=Twitter&logo=twitter&logoColor=white&style=flat-square" alt="Twitter Follow" />
   <img src="https://img.shields.io/badge/Focus-AI%2FML-00d9ff?style=flat-square" alt="Focus Area" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-success?style=flat-square" alt="Status" />
 </p>
@@ -94,8 +94,8 @@ I specialize in leveraging cutting-edge AI technologies to build practical, high
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Josephat%20Onkoba-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephat-onkoba-984b6a226/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Bold.pro-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://bold.pro/my/josephatonkoba-serembe-241021233704)
-[![X](https://img.shields.io/badge/X-@JosephatOnkoba__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JosephatOnkoba_)
-[![Email](https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephatonkoba30@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@JosephatOnkoba_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JosephatOnkoba_)
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
