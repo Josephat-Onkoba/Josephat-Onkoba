@@ -83,7 +83,7 @@ I specialize in leveraging cutting-edge AI technologies to build practical, high
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josephat-onkoba&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord" alt="GitHub Trophies" />
 </div>
 
 ---
