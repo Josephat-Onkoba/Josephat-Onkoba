@@ -82,9 +82,9 @@ I specialize in leveraging cutting-edge AI technologies to build practical, high
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josephat-onkoba&theme=nord" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/josephat-onkoba/josephat-onkoba/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
