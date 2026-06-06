@@ -70,6 +70,7 @@ I specialize in leveraging cutting-edge AI technologies to build practical, high
 
 ## GitHub Analytics
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=josephat-onkoba)](https://git.io/streak-stats)
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=josephat-onkoba&theme=react&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
 </div>
